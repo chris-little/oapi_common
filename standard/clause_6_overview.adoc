@@ -6,7 +6,7 @@
 OGC Web Service (OWS) standards implement a Remote-Procedure-Call-over-HTTP architectural style using XML for payloads. This was the state-of-the-art when OGC Web Services (OWS) were originally designed in the late 1990s. However, times have changed. New Resource-Oriented APIs have begun to replace Service-Oriented Web Services. And new OGC API standards are under development to provide 
 API alternatives to the OWS standards.
 
-OGC API (OAPI) Common specifies the common kernel of this API approach to services that follows the current Web architecture. In particular, the <<SDWBP,W3C/OGC best practices for sharing Spatial Data on the Web>> as well as the <<DWBP,W3C best practices for sharing Data on the Web>>.
+OGC API (OAPI) Common specifies the common kernel of this API approach to services that follows the current Web architecture. In particular, the <<SDWBP,W3C/OGC Best Practices for sharing Spatial Data on the Web>> as well as the <<DWBP,W3C Best Practices for sharing Data on the Web>>.
 
 Beside the general alignment with the architecture of the Web (e.g., consistency with HTTP/HTTPS, hypermedia controls), another goal for OGC API standards is modularization. This goal has several facets:
 
